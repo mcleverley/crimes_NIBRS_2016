@@ -1,5 +1,4 @@
 # crimes_NIBRS_2016
-predicting variables of criminal &amp; victim from FBI's incident-based data
+Predicting variables of criminal &amp; victim from FBI's incident-based data (NIBRS 2016). Hosted in MySQL Workbench, predictive modeling.
 
 
-will this get overwritten if i push the readme up from local? maybe i should put it in .gitignore
